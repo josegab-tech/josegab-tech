@@ -4,7 +4,7 @@
 ---
 
 ### 📌 Sobre mim
-* **Formação:** Sistemas de Informação — **IFSULDEMINAS**
+* **Formação:** Bacharelado em Ciência da Computação / Sistemas de Informação — **IFSULDEMINAS**
 * **Atuação Atual:** Bolsista de P&D no projeto *Smart Coffee Flow* (Embrapii/Sebrae/FADEMA)
 * **Foco de Estudos:** Arquitetura de Sistemas, Linux, **DevOps**, Automação e **Cloud Computing**
 * **Interesses:** Ecossistema Open Source, infraestrutura moderna e melhoria contínua de software
@@ -28,13 +28,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=josegab-tech&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegab-tech&layout=compact&theme=tokyonight" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josegab-tech&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josegab-tech&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-gabriel-reis-da-cruz-129022379)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegab-tech/)
