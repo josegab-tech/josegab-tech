@@ -28,12 +28,14 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josegab-tech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josegab-tech&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josegab-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegab-tech/)
+<a href="https://www.linkedin.com/in/josegab-tech/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
