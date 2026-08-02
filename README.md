@@ -4,7 +4,7 @@
 ---
 
 ### 📌 Sobre mim
-* **Formação:** Bacharelado em Ciência da Computação / Sistemas de Informação — **IFSULDEMINAS**
+* **Formação:** Sistemas de Informação — **IFSULDEMINAS**
 * **Atuação Atual:** Bolsista de P&D no projeto *Smart Coffee Flow* (Embrapii/Sebrae/FADEMA)
 * **Foco de Estudos:** Arquitetura de Sistemas, Linux, **DevOps**, Automação e **Cloud Computing**
 * **Interesses:** Ecossistema Open Source, infraestrutura moderna e melhoria contínua de software
