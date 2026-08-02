@@ -36,6 +36,4 @@
 
 ### 🌐 Conecte-se comigo
 
-<a href="www.linkedin.com/in/josé-gabriel-reis-da-cruz-129022379" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gabriel-reis-da-cruz-129022379)
