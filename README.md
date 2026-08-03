@@ -26,16 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-<details>
-  <summary><b>📜 Cursos & Formação Complementar (Clique para expandir)</b></summary>
 
-  <br />
-
-  * **Bacharelado em Sistemas de Informação** — IFSULDEMINAS *(Em andamento)*
-  * **Administração de Sistemas Linux** — *(Espaço para seus cursos/certificados)*
-  * **Fundamentos de Docker e Containers** — *(Espaço para seus cursos/certificados)*
-</details>
----
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
