@@ -1,7 +1,7 @@
 # José Gabriel
-**Desenvolvimento de Software | DevOps & Cloud Aspirant**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Sistemas+de+Informação+%40+IFSULDEMINAS;Desenvolvimento+de+Software;Foco+em+DevOps%2C+Linux+%26+Cloud)](https://git.io/typing-svg)
+
 ---
 
 ### 📌 Sobre mim
