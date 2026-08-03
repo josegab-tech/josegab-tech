@@ -1,6 +1,7 @@
 # José Gabriel
 **Desenvolvimento de Software | DevOps & Cloud Aspirant**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Sistemas+de+Informação+%40+IFSULDEMINAS;Desenvolvimento+de+Software;Foco+em+DevOps%2C+Linux+%26+Cloud)](https://git.io/typing-svg)
 ---
 
 ### 📌 Sobre mim
@@ -25,7 +26,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+<details>
+  <summary><b>📜 Cursos & Formação Complementar (Clique para expandir)</b></summary>
 
+  <br />
+
+  * **Bacharelado em Sistemas de Informação** — IFSULDEMINAS *(Em andamento)*
+  * **Administração de Sistemas Linux** — *(Espaço para seus cursos/certificados)*
+  * **Fundamentos de Docker e Containers** — *(Espaço para seus cursos/certificados)*
+</details>
+---
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
