@@ -29,7 +29,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=josegab-tech&show_icons=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=josegab-tech&show_icons=true&theme=nord&hide_border=true)
 
 ---
 
