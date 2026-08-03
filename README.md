@@ -29,9 +29,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josegab-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=josegab-tech&show_icons=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true)
 
 ---
 
